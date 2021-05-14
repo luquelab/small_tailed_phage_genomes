@@ -1,14 +1,17 @@
 # Luque Lab project template
 
 ## WHAT
-This repository provides the default structure for projects in the Luque Lab.
+This project aims to investigate patterns in the essential genes of small tailed phage genomes. The main focus is Actinobacteriophages. A few non small tailed phages (not Actinobacteriophages) are used as contrast. Metagenomic-assembled small phages are also compared.
+
 
 ## WHO
-The template was originally concived by Antoni Luque based on recommendations from Noble PLoS Comp Biol 2009, Wilson et al PLoS Comp Biol 2017, and Briney "Data Management for Researches" (2015)
+Antoni Luque
+Caitlin Bartels
+Simon White
+Diana Lee
 
 ## WHEN
-This is an evolving repository
-Started: 2021-05-10
+Started: 2021-05-14
 
 End: ...
 
